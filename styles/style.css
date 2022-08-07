@@ -52,6 +52,28 @@
     height: 789px;
 }
 /*section2*/
+.section2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.section2header1{    
+    color: #3D37F1;
+    font-size: 20px;
+}
+.section2header2{    
+    color: #5A5454;
+    font-size: 40px;
+    margin: 17px 0 21px 0;
+}
+.section2header3{    
+    color: #747474;
+    font-size: 18px;
+    width: 712px;
+    text-align: center;
+    
+}
 .section2toprow{
     display: flex;
     justify-content: space-between;
